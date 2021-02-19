@@ -1,3 +1,4 @@
+
 *,
 *:before,
 *:after {
@@ -12,7 +13,7 @@ body {
 }
 
 .main {
-  background-image: url(../img/component-1.png);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108464304-3814ab80-72c3-11eb-934c-5ce9bb4616ef.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -493,7 +494,7 @@ body {
 .contact {
   padding: 80px 0;
   text-align: center;
-  background-image: url(../img/component.png);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108464335-44006d80-72c3-11eb-9a8e-6fd823cb1943.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
